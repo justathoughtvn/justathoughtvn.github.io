@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-09-03T16:10:54+07:00</updated><id>/feed.xml</id><title type="html">minht57</title><subtitle>Just a normal website.</subtitle><author><name>minht57</name></author><entry><title type="html">Bài đăng đầu tiên</title><link href="/blogs/the-first-post/" rel="alternate" type="text/html" title="Bài đăng đầu tiên" /><published>2021-09-02T00:00:00+07:00</published><updated>2021-09-02T00:00:00+07:00</updated><id>/blogs/the-first-post</id><content type="html" xml:base="/blogs/the-first-post/">&lt;h1 id=&quot;xin-chào&quot;&gt;Xin chào&lt;/h1&gt;
+
+&lt;p&gt;Đây là bài đăng đầu tiên.&lt;/p&gt;</content><author><name>minht57</name></author><category term="Blogs" /><summary type="html">Xin chào</summary></entry><entry><title type="html">Bài đăng thứ hai</title><link href="/linhtinh/the-second-post/" rel="alternate" type="text/html" title="Bài đăng thứ hai" /><published>2021-09-02T00:00:00+07:00</published><updated>2021-09-02T00:00:00+07:00</updated><id>/linhtinh/the-second-post</id><content type="html" xml:base="/linhtinh/the-second-post/">&lt;h1 id=&quot;xin-chào&quot;&gt;Xin chào&lt;/h1&gt;
+
+&lt;p&gt;Đây là bài đăng thứ hai.&lt;/p&gt;
+
+&lt;p&gt;Ahihi&lt;/p&gt;</content><author><name>minht57</name></author><category term="Linhtinh" /><summary type="html">Xin chào</summary></entry></feed>
